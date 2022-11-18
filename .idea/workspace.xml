@@ -4,20 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/njg/designpatterns/Main.java" afterDir="false" />
+    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="initial put">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInversion/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/controller/Oven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/BakedGood.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/ChocolateChipCookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/Cookie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/Ingredient.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Bird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/BirdFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/BlackBird.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/EmployeeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Planet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/SongBird.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/njg/designpatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/njg/designpatterns/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -35,15 +56,65 @@
     <option name="showMembers" value="true" />
     <option name="showVisibilityIcons" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "jdk.selected.JAVA_MODULE": "19"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Application.org.njg.designpatterns.Main (1)">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.njg.designpatterns.factorymethod.Main" />
+      <module name="FactoryMethod" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.njg.designpatterns.factorymethod.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.njg.designpatterns.Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.njg.designpatterns.Main" />
+      <module name="DependencyInversion" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.njg.designpatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="org.njg.designpatterns.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.njg.designpatterns.Main" />
+      <module name="DesignPatterns" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.njg.designpatterns.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.org.njg.designpatterns.Main (1)" />
+        <item itemvalue="Application.org.njg.designpatterns.Main" />
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,8 +123,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668312028775</updated>
-      <workItem from="1668312030271" duration="395000" />
+      <workItem from="1668312030271" duration="8759000" />
+      <workItem from="1668390934848" duration="5710000" />
+      <workItem from="1668476415070" duration="4920000" />
     </task>
+    <task id="LOCAL-00001" summary="initial put">
+      <created>1668312452099</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668312452099</updated>
+    </task>
+    <task id="LOCAL-00002" summary="initial put">
+      <created>1668312507580</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1668312507580</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -72,5 +160,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="initial put" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial put" />
   </component>
 </project>
