@@ -11,6 +11,7 @@
     <modules>
         <module>FactoryMethod</module>
         <module>DependencyInversion</module>
+        <module>Journal</module>
     </modules>
 
     <properties>

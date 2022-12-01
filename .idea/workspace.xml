@@ -4,19 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="dependency inversion">
-      <change afterPath="$PROJECT_DIR$/Journal/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Journal/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Journal/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Journal/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Journal/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Journal/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Journal/src/main/java/com/example/journal/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Journal/src/main/resources/application.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="Journal first put">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -131,7 +122,7 @@
       <workItem from="1668312030271" duration="8759000" />
       <workItem from="1668390934848" duration="5710000" />
       <workItem from="1668476415070" duration="5419000" />
-      <workItem from="1669863933454" duration="1446000" />
+      <workItem from="1669863933454" duration="1785000" />
     </task>
     <task id="LOCAL-00001" summary="initial put">
       <created>1668312452099</created>
@@ -154,7 +145,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668741691785</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Journal first put">
+      <created>1669865788445</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1669865788445</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -175,6 +173,7 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial put" />
     <MESSAGE value="dependency inversion" />
-    <option name="LAST_COMMIT_MESSAGE" value="dependency inversion" />
+    <MESSAGE value="Journal first put" />
+    <option name="LAST_COMMIT_MESSAGE" value="Journal first put" />
   </component>
 </project>
