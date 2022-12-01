@@ -4,9 +4,64 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="Journal first put">
+    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="workspace">
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/COMMIT_EDITMSG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/config" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/description" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/applypatch-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/fsmonitor-watchman.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/post-update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/pre-applypatch.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/pre-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/pre-merge-commit.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/pre-push.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/pre-rebase.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/pre-receive.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/prepare-commit-msg.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/hooks/update.sample" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/info/exclude" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/logs/HEAD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/logs/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/09/5bc781ea0cb1d68d739a15cffa671d17febf00" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/11/4827564c15b24685de456b72ad1f4c2ec0de34" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/1d/8ab018eaf11d9b3a4a90e7818ace373dfbb380" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/1e/d471ec8fcc1c9294089206e0cf1bd015e30268" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/31/30aa2b48586bfd619f9bcad4e95776a647c648" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/3b/ed2f2c08ff431d816abd44e69e20ee18d8d713" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/45/64237de17f57c3de06b630587f46d4346718e7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/49/eb41ef7a85aa539a2eb9c111f161d31e03f860" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/54/9e00a2a96fa9d7c5dbc9859664a78d980158c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/54/c6a92d89e8efd56285f5828003ca621d93ebdb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/5a/703c8306fe6dc34b1d16da256f7048bfd879db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/62/5233de0cb80f16f2fc834e9d140e3e854725ca" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/6b/c02d42bc55f08e8297de92ae14e4364a75e9bf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/8a/8fb2282df5b8f7263470a5a2dc0e196f35f35f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/8b/137891791fe96927ad78e64b0aad7bded08bdc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/8f/f7429ccb8b005d3eb20291737e03b5c0765b06" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/90/9955f62b42c3615c0dc52ba0931286f6c5cfea" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/96/138610079880382d7a9ede4becd1dfa83c1388" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/9e/928ddbb723eb5bd6bd4f74464c42a5b248ec59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/b7/4bf7fcd640440a49eb602158547670ef907772" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/c1/dd12f17644411d6e840bd5a10c6ecda0175f18" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/c3/177b08dc5c50d3c4e11e64ab15c1be30cc4c9b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/db/fd4f65cf46090fbd0de25b8de6a04d3017181d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/ea/dbb6a8560994fb476112bf58a2464321541bd4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/ee/52cfb44aee2a5ec3b1fdd1e383af2de939dcac" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/objects/ef/14ba3b749fc0e21a0c46da4f0523d4922ad933" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/NOT.git/refs/heads/master" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/mvnw.cmd" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/mvnw.cmd" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/src/main/java/com/example/journal/Journal.java" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/src/main/java/com/example/journal/Journal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Journal1/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/Journal/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -123,7 +178,7 @@
       <workItem from="1668312030271" duration="8759000" />
       <workItem from="1668390934848" duration="5710000" />
       <workItem from="1668476415070" duration="5419000" />
-      <workItem from="1669863933454" duration="2549000" />
+      <workItem from="1669863933454" duration="2876000" />
     </task>
     <task id="LOCAL-00001" summary="initial put">
       <created>1668312452099</created>
@@ -167,7 +222,21 @@
       <option name="project" value="LOCAL" />
       <updated>1669866663191</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="workspace">
+      <created>1669866900539</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1669866900539</updated>
+    </task>
+    <task id="LOCAL-00008" summary="workspace">
+      <created>1669867108047</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1669867108047</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +258,7 @@
     <MESSAGE value="initial put" />
     <MESSAGE value="dependency inversion" />
     <MESSAGE value="Journal first put" />
-    <option name="LAST_COMMIT_MESSAGE" value="Journal first put" />
+    <MESSAGE value="workspace" />
+    <option name="LAST_COMMIT_MESSAGE" value="workspace" />
   </component>
 </project>
