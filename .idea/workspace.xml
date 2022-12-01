@@ -4,28 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="initial put">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DependencyInversion/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/controller/Oven.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/BakedGood.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/ChocolateChipCookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/Cookie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DependencyInversion/src/main/java/org/njg/designpatterns/dependencyinversion/model/Ingredient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Bird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/BirdFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/BlackBird.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/EmployeeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Planet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/SongBird.java" afterDir="false" />
+    <list default="true" id="ae3c020a-f1f0-45a5-8c8e-ab4bc8ef9236" name="Changes" comment="dependency inversion">
+      <change afterPath="$PROJECT_DIR$/Journal/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journal/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journal/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journal/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journal/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journal/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journal/src/main/java/com/example/journal/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Journal/src/main/resources/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/FactoryMethod/src/main/java/org/njg/designpatterns/factorymethod/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/njg/designpatterns/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/njg/designpatterns/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +32,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Journal" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -67,7 +58,20 @@
     &quot;jdk.selected.JAVA_MODULE&quot;: &quot;19&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.org.njg.designpatterns.Main (1)">
+  <component name="RunManager" selected="Application.JournalApplication">
+    <configuration name="JournalApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.journal.JournalApplication" />
+      <module name="Journal" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.journal.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.njg.designpatterns.factorymethod.Main" />
       <module name="FactoryMethod" />
@@ -109,6 +113,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.JournalApplication" />
         <item itemvalue="Application.org.njg.designpatterns.Main (1)" />
         <item itemvalue="Application.org.njg.designpatterns.Main" />
         <item itemvalue="Application.Main" />
@@ -125,7 +130,8 @@
       <updated>1668312028775</updated>
       <workItem from="1668312030271" duration="8759000" />
       <workItem from="1668390934848" duration="5710000" />
-      <workItem from="1668476415070" duration="4920000" />
+      <workItem from="1668476415070" duration="5419000" />
+      <workItem from="1669863933454" duration="1446000" />
     </task>
     <task id="LOCAL-00001" summary="initial put">
       <created>1668312452099</created>
@@ -141,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668312507580</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dependency inversion">
+      <created>1668741691785</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1668741691785</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -161,6 +174,7 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="initial put" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial put" />
+    <MESSAGE value="dependency inversion" />
+    <option name="LAST_COMMIT_MESSAGE" value="dependency inversion" />
   </component>
 </project>
